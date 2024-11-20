@@ -1,3 +1,41 @@
+# O Corpo Ideal: Criando Avatares de Fitness com IA
+
+## 📒 Descrição
+O objetivo deste projeto é criar avatares digitais baseados em IA que representem diferentes tipos de corpos naturais, para desafiar as noções tradicionais do "corpo ideal". A IA será usada para criar modelos de fitness que respeitam a diversidade de corpos e, ao mesmo tempo, mostrar o impacto das IAs generativas na definição de padrões de beleza.
+
+## 🤖 Tecnologias Utilizadas
+
+StyleGAN2: Para a criação de avatares de corpos realistas com diferentes características físicas.
+Blender: Para gerar e animar avatares em 3D.
+Deep Learning (Redes Neurais): Para personalizar e ajustar os avatares de acordo com características físicas únicas (alturas, tipos de corpo).
+
+
+## 🧐 Processo de Criação
+Criação do Modelo de Avatar: Utilizando o StyleGAN2, geramos múltiplos avatares com base em uma grande base de dados de imagens de pessoas com diferentes formas de corpo.
+Customização e Animação: Utilizamos o Blender para aplicar animações nos avatares, mostrando como o corpo pode ser treinado de forma natural e sem a ajuda de modificações digitais.
+Interatividade: A aplicação permite que os usuários escolham características e tipos de corpo para ver como esses corpos podem ser representados digitalmente sem distorções.
+
+## 🚀 Resultados
+Os avatares criados foram usados para promover a diversidade corporal, com feedback positivo de comunidades que discutem saúde e fitness. A ferramenta foi bem recebida como uma forma de representar a realidade, sem idealizações ou manipulações de imagem.
+
+## 💭 Reflexão (Opcional)
+Criar algo 'natty' com IA é uma forma de desconstruir as ideias tradicionais de beleza e fitness, mas também evidencia como as IAs podem ser utilizadas para manipular a percepção da realidade. A linha entre o que é natural e artificial se torna cada vez mais tênue, principalmente no mundo digital.
+
+
+### Exemplos e Insigths
+
+- [E-BOOK](/exemplos/E-BOOK.md)
+- [Podcast](/exemplos/PODCAST.md)
+- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+
+## Links Interessantes
+
+
+
+
+```
+
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
